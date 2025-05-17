@@ -37,5 +37,10 @@
 
 ---
 
-📬 ご相談・ご依頼は以下のNotionページまたはSNSからどうぞ！  
-➡ [Notionリンク]（ここに貼る）
+📬 ご相談・ご依頼は以下からお気軽にどうぞ！
+
+- 📘 Notion営業資料：  
+  https://absorbing-sumac-5fc.notion.site/cloud-hayata-AWS-1f612fb23660809db7b7f73a8eb4b1bd?pvs=4
+
+- 🐤 X（Twitter）：  
+  https://x.com/cloud_hayata
