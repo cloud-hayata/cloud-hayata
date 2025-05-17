@@ -44,3 +44,6 @@
 
 - 🐤 X（Twitter）：  
   https://x.com/cloud_hayata
+
+- 📮 お問い合わせフォーム（Googleフォーム）：
+  https://docs.google.com/forms/d/e/1FAIpQLSdzLPN38ZQC2PlvoTtGg9sHovj8BQ9iIj_6jknY5amyu8KMTg/viewform
