@@ -1,49 +1,53 @@
-# AWS 静的Webサイト構成テンプレート
+# ☁️ Hayata Kitamura
 
-## 🔧 概要
-
-このリポジトリは、以下のAWSサービスを使って構築した「高速・安定・SSL対応」の静的Webサイトの構成テンプレートです。
-
-- ✅ Amazon S3（静的ウェブホスティング）
-- ✅ CloudFront（CDN＋SSL）
-- ✅ Route 53（ドメイン管理）
-- ✅ AWS Certificate Manager（無料SSL証明書）
-
-## 🧱 構成図
-
-![AWS構成図](./構成図.png)
-
-## 📄 含まれるファイル
-
-| ファイル名        | 説明                      |
-|------------------|---------------------------|
-| `index.html`     | サンプルHTMLファイル（LPなどに使用可能） |
-| `README.md`      | この構成の説明             |
-| `構成図.png`     | アーキテクチャ図（draw.ioまたは画像）    |
-
-## ✅ この構成が使える場面
-
-- 企業・店舗のLP（ランディングページ）
-- 自己紹介・ポートフォリオページ
-- イベント・キャンペーン特設サイト
-- 商品やサービスの紹介サイト
-
-## 📌 特徴
-
-- 高速＆安定  
-- 月額コスト数十円〜  
-- 独自ドメイン＋HTTPS対応  
-- 変更も簡単で、将来的にCMS化も可能
+未経験からAWSクラウドエンジニアを目指し、  
+**「設計から構築までを証明する」ポートフォリオ**を構築しています。
 
 ---
 
-📬 ご相談・ご依頼は以下からお気軽にどうぞ！
+## 🎯 目標と現在地
 
-- 📘 Notion営業資料：  
-  https://absorbing-sumac-5fc.notion.site/cloud-hayata-AWS-1f612fb23660809db7b7f73a8eb4b1bd?pvs=4
+「未経験だから評価されない」のではなく、  
+**「証明していないから評価されない」だけ。**
 
-- 🐤 X（Twitter）：  
-  https://x.com/cloud_hayata
+GUI構成、TerraformによるIaC、サーバレス、CI/CD、ECS構成、実案件模倣など、  
+“今できる最大のアウトプット”を形にして証明しています。
 
-- 📮 お問い合わせフォーム（Googleフォーム）：
-  https://docs.google.com/forms/d/e/1FAIpQLSdzLPN38ZQC2PlvoTtGg9sHovj8BQ9iIj_6jknY5amyu8KMTg/viewform
+📢 日々の進捗や気づきは [@cloud_hayata](https://x.com/cloud_hayata) で発信中。
+
+---
+
+## 🛠 技術スタック（習得中＋構築中）
+
+- **クラウド**：AWS（VPC, EC2, S3, RDS, Route53, CloudWatch 他）
+- **インフラ自動化**：Terraform
+- **CI/CD**：GitHub Actions
+- **構成設計**：draw.io, Canva
+- **バージョン管理**：Git, GitHub
+
+---
+
+## 📁 主なプロジェクト
+
+### [cloud-architecture-portfolio](https://github.com/cloud-hayata/cloud-architecture-portfolio)
+未経験からでも“構成・設計・構築力”を証明するための、実践型ポートフォリオ。
+
+| ステップ | 内容 | 状況 |
+|--|--|--|
+| STEP1 | GUI構成（VPC, EC2, S3, RDS） | ✅ 完了 |
+| STEP2 | TerraformによるIaC自動化 | 🔄 実装準備中 |
+| STEP3 | サーバレス構成（Lambda, API Gateway, DynamoDB） | ⏳ 準備中 |
+| STEP4 | CI/CD（GitHub Actions / CodePipeline） | ⏳ 準備中 |
+| STEP5 | Notion / PDFでの設計書資料化 | ⏳ 準備中 |
+| STEP6 | ECS / コンテナ構成の導入 | ⏳ 準備中 |
+| STEP7 | 企業別ニーズを想定したカスタム構成 | ⏳ 準備中 |
+| STEP8 | 実案件再現型ポートフォリオ構成 | ⏳ 準備中 |
+
+---
+
+## 🗣 一言
+
+未経験であっても、**設計・構成・運用までを“自分で考え、自分で動かせる”こと**を証明したい。  
+そのために、学ぶだけでなく、**形にして届けることを最優先にしています。**
+
+📫 ご連絡やフィードバックは [@cloud_hayata](https://x.com/cloud_hayata) へお気軽にどうぞ。
