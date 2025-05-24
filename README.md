@@ -13,7 +13,7 @@
 GUI構成、TerraformによるIaC、サーバレス、CI/CD、ECS構成、実案件模倣など、  
 “今できる最大のアウトプット”を形にして証明しています。
 
-📢 日々の進捗や気づきは [@cloud_hayata](https://x.com/cloud_hayata) で発信中。
+日々の進捗や気づきは [@cloud_hayata](https://x.com/cloud_hayata) で発信中。
 
 ---
 
@@ -34,8 +34,8 @@ GUI構成、TerraformによるIaC、サーバレス、CI/CD、ECS構成、実案
 
 | ステップ | 内容 | 状況 |
 |--|--|--|
-| STEP1 | GUI構成（VPC, EC2, S3, RDS） | ✅ 完了 |
-| STEP2 | TerraformによるIaC自動化 | 🔄 実装準備中 |
+| STEP1 | GUI構成（VPC, EC2, S3, RDS） | 完了 |
+| STEP2 | TerraformによるIaC自動化 | 完了 |
 | STEP3 | サーバレス構成（Lambda, API Gateway, DynamoDB） | ⏳ 準備中 |
 | STEP4 | CI/CD（GitHub Actions / CodePipeline） | ⏳ 準備中 |
 | STEP5 | Notion / PDFでの設計書資料化 | ⏳ 準備中 |
@@ -50,4 +50,4 @@ GUI構成、TerraformによるIaC、サーバレス、CI/CD、ECS構成、実案
 未経験であっても、**設計・構成・運用までを“自分で考え、自分で動かせる”こと**を証明したい。  
 そのために、学ぶだけでなく、**形にして届けることを最優先にしています。**
 
-📫 ご連絡やフィードバックは [@cloud_hayata](https://x.com/cloud_hayata) へお気軽にどうぞ。
+ご連絡やフィードバックは [@cloud_hayata](https://x.com/cloud_hayata) へお気軽にどうぞ。
