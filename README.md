@@ -37,7 +37,7 @@ GUI構成、TerraformによるIaC、サーバレス、CI/CD、ECS構成、実案
 | STEP1 | GUI構成（VPC, EC2, S3, RDS） | 完了 |
 | STEP2 | TerraformによるIaC自動化 | 完了 |
 | STEP3 | サーバレス構成（Lambda, API Gateway, CloudWatch Logs） | 完了 |
-| STEP4 | CI/CD & 監視設計（Lambda × GitHub Actions × CloudWatch） | ⏳ 準備中 |
+| STEP4 | CI/CD & 監視設計（Lambda, GitHub Actions, CloudWatch） | 完了 |
 | STEP5 | Notion / PDFでの設計書資料化 | ⏳ 準備中 |
 | STEP6 | ECS / コンテナ構成の導入 | ⏳ 準備中 |
 | STEP7 | 企業別ニーズを想定したカスタム構成 | ⏳ 準備中 |
